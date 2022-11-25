@@ -218,7 +218,7 @@ namespace ensiie
         /**
          * @brief Disply stream.
          * 
-         * @param os SOutput stream.
+         * @param os Output stream.
          * @param q Quaternion.
          * @return std::ostream& Stream to be displayed.
          */
