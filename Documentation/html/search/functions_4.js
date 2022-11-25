@@ -9,5 +9,6 @@ var searchData=
   ['operator_2d_3d_44',['operator-=',['../classensiie_1_1_quaternion.html#a8350a044b68af6f55557551d327ce213',1,'ensiie::Quaternion']]],
   ['operator_2f_45',['operator/',['../namespaceensiie.html#a82ef69029826eb8960b9c71ec75eb37d',1,'ensiie::operator/(const Quaternion &amp;q1, const Quaternion &amp;q2)'],['../namespaceensiie.html#aa52f5a767f03383b428544a818f57db8',1,'ensiie::operator/(const Quaternion &amp;q, double x)']]],
   ['operator_2f_3d_46',['operator/=',['../classensiie_1_1_quaternion.html#afc60b561349d470d2a2a3cf8f289828b',1,'ensiie::Quaternion::operator/=(const Quaternion &amp;q)'],['../classensiie_1_1_quaternion.html#a9b24f4798a8343cb207870c2401c8d70',1,'ensiie::Quaternion::operator/=(double x)']]],
-  ['operator_3d_3d_47',['operator==',['../classensiie_1_1_quaternion.html#a3ca281cb77606a591fd49c3a52fad4ba',1,'ensiie::Quaternion']]]
+  ['operator_3c_3c_47',['operator&lt;&lt;',['../namespaceensiie.html#a10ec1205104fe18c44aacc9d6b539ae9',1,'ensiie']]],
+  ['operator_3d_3d_48',['operator==',['../classensiie_1_1_quaternion.html#a3ca281cb77606a591fd49c3a52fad4ba',1,'ensiie::Quaternion']]]
 ];

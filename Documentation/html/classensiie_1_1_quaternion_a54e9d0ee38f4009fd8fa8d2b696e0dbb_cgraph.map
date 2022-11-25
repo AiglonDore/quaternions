@@ -1,7 +1,4 @@
 <map id="ensiie::Quaternion::inverse" name="ensiie::Quaternion::inverse">
-<area shape="rect" id="node1" title="Gets the inverse of the quaternion." alt="" coords="5,39,147,80"/>
-<area shape="rect" id="node2" href="$classensiie_1_1_quaternion.html#aacc2c59928c3e29b08a18ba756d8d1c1" title="Gets the inverse of the quaternion." alt="" coords="195,39,336,80"/>
-<area shape="rect" id="node3" href="$classensiie_1_1_quaternion.html#ab18f1390052f3377fae9786a5f28752a" title="Gets the conjugate of the quaternion." alt="" coords="384,5,525,47"/>
-<area shape="rect" id="node5" href="$classensiie_1_1_quaternion.html#a3dcac94f392eba74dbead39d9dbba561" title="Get the norm of the quaternion." alt="" coords="384,71,525,112"/>
-<area shape="rect" id="node4" href="$classensiie_1_1_quaternion.html#a639db31d284b85656ba40e05c6be9de8" title="Construct a new Quaternion object, which is the null quaternion." alt="" coords="573,5,715,47"/>
+<area shape="rect" id="node1" title="Gets the inverse of the quaternion." alt="" coords="5,5,147,47"/>
+<area shape="rect" id="node2" href="$classensiie_1_1_quaternion.html#a08a97111fa0105f710089c90bf0d2a04" title="Gets the inverse of the quaternion." alt="" coords="195,5,336,47"/>
 </map>
