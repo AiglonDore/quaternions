@@ -12,7 +12,7 @@
 #include "quaternion.h"
 #include <exception>
 
-ensiie::Quaternion::Quaternion() : u(0), v(0), w(0), t(0)
+ensiie::Quaternion::Quaternion() : t(0), u(0), v(0), w(0)
 {
 }
 
@@ -35,6 +35,11 @@ ensiie::Quaternion::~Quaternion()
 double ensiie::Quaternion::norm() const 
 {
     return std::sqrt(t * t + u * u + v * v + w * w);
+}
+
+ensiie::Quaternion ensiie::Quaternion::inverse() const
+{
+    return conjugate() / norm();
 }
 
 ensiie::Quaternion& ensiie::Quaternion::operator+=(const Quaternion& q)

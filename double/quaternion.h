@@ -135,10 +135,9 @@ namespace ensiie
         /**
          * @brief Gets the inverse of the quaternion.
          * 
-         * @param q Quaternion.
          * @return Quaternion Inverse of q.
          */
-        Quaternion inverse() const { return conjugate() / norm(); };
+        Quaternion inverse() const;
 
         /**
          * @brief Gets the inverse of the quaternion.
@@ -224,7 +223,7 @@ namespace ensiie
          */
         friend std::ostream& operator<<(std::ostream& os, const Quaternion& q);
     };
-
+    std::ostream& operator<<(std::ostream& os, const Quaternion& q);
     /**
      * @brief Adds two quaternions.
      * 

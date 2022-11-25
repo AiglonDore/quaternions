@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*.rmd": "markdown",
+        "*.aux": "latex",
+        ".bash_history": "shellscript",
+        "*.cls": "latex",
+        "Doxyfile": "shellscript",
+        "*.toc": "latex",
+        "iosfwd": "cpp"
+    }
+}
