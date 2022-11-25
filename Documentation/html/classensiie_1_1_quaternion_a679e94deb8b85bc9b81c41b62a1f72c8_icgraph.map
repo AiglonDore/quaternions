@@ -1,0 +1,6 @@
+<map id="ensiie::Quaternion::conjugate" name="ensiie::Quaternion::conjugate">
+<area shape="rect" id="node1" title="Gets the conjugate of the quaternion." alt="" coords="384,39,525,80"/>
+<area shape="rect" id="node2" href="$classensiie_1_1_quaternion.html#adac7775c10cce6cc6b8f836d8e919740" title="Gets the conjugate of the quaternion." alt="" coords="195,5,336,47"/>
+<area shape="rect" id="node3" href="$classensiie_1_1_quaternion.html#a10fed80d8e287b5dff19ceb9dc369f1f" title="Gets the inverse of the quaternion." alt="" coords="195,71,336,112"/>
+<area shape="rect" id="node4" href="$classensiie_1_1_quaternion.html#aa1186356bec982c1cebcbeeafb41ae60" title="Gets the inverse of the quaternion." alt="" coords="5,71,147,112"/>
+</map>

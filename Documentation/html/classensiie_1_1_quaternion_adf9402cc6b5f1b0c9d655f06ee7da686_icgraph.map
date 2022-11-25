@@ -1,0 +1,7 @@
+<map id="ensiie::Quaternion::norm" name="ensiie::Quaternion::norm">
+<area shape="rect" id="node1" title="Get the norm of the quaternion." alt="" coords="384,71,525,112"/>
+<area shape="rect" id="node2" href="$classensiie_1_1_quaternion.html#a10fed80d8e287b5dff19ceb9dc369f1f" title="Gets the inverse of the quaternion." alt="" coords="195,5,336,47"/>
+<area shape="rect" id="node4" href="$classensiie_1_1_quaternion.html#a4c3827947150e80a9fdecde055bc600f" title="Gets the norm of the quaternion." alt="" coords="195,71,336,112"/>
+<area shape="rect" id="node5" href="$classensiie_1_1_quaternion.html#a0caf764e4ade3969e0cef438324fc08d" title="Divides two quaternions." alt="" coords="195,136,336,177"/>
+<area shape="rect" id="node3" href="$classensiie_1_1_quaternion.html#aa1186356bec982c1cebcbeeafb41ae60" title="Gets the inverse of the quaternion." alt="" coords="5,5,147,47"/>
+</map>

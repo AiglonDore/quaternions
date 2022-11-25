@@ -1,0 +1,4 @@
+<map id="ensiie::Quaternion::conjugate" name="ensiie::Quaternion::conjugate">
+<area shape="rect" id="node1" title="Gets the conjugate of the quaternion." alt="" coords="5,5,147,47"/>
+<area shape="rect" id="node2" href="$classensiie_1_1_quaternion.html#a63f8a9e11f51fc1e3af6a4abe193d4f9" title="Construct a new Quaternion object, which is the null quaternion." alt="" coords="195,5,336,47"/>
+</map>
