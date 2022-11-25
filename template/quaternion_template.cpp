@@ -181,3 +181,9 @@ ensiie::Quaternion<T> ensiie::operator/(const Quaternion<T>& q, T x)
     copy /= x;
     return copy;
 }
+
+template <typename T>
+bool equal(const ensiie::Quaternion<T>& q1, T r, T s, T t, T n)
+{
+    return q1.getT() == r && q1.getU() == s && q1.getV() == t && q1.getW() == n;
+}

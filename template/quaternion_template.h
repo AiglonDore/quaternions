@@ -290,6 +290,21 @@ namespace ensiie
      */
     template <typename T>
     Quaternion<T> operator/(const Quaternion<T>& q, T x);
+
+    /**
+     * @brief Checks if a quaternion is equal to another, defined by its coefficients.
+     * 
+     * @tparam T 
+     * @param q1 Quaternion.
+     * @param r First coef.
+     * @param s Second coef.
+     * @param t Third coef.
+     * @param n Fourth coef.
+     * @return true Equal.
+     * @return false Different.
+     */
+    template <typename T>
+    bool equal(const ensiie::Quaternion<T>& q1, T r, T s, T t, T n);
 }
 
 
