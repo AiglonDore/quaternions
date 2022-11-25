@@ -14,3 +14,6 @@ linux : double/quaternion.cpp double/quaternion.h
 	
 windows : double/quaternion.cpp double/quaternion.h
 	$(WCC) $(CFLAGS) -o bin/quaternion.lib double/quaternion.cpp
+
+doc :
+	doxygen Doxyfile
