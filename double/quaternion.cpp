@@ -39,7 +39,7 @@ double ensiie::Quaternion::norm() const
 
 ensiie::Quaternion ensiie::Quaternion::inverse() const
 {
-    return conjugate() / norm();
+    return conjugate() / std::pow(norm(), 2);
 }
 
 ensiie::Quaternion& ensiie::Quaternion::operator+=(const Quaternion& q)
@@ -101,7 +101,7 @@ ensiie::Quaternion& ensiie::Quaternion::operator*=(double x)
 
 ensiie::Quaternion& ensiie::Quaternion::operator/=(double x)
 {
-    if (x <= 1e-15)
+    if (std::abs(x) <= 1e-15)
     {
         throw std::invalid_argument("Division by zero");
     }
